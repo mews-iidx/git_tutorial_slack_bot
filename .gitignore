@@ -1,3 +1,4 @@
 __pycache__
 slack_bot
 *.swp
+slackbot_settings.py
