@@ -1,16 +1,19 @@
 # git_tutorial_slack_bot
 
-WSL上で行う想定となっています。スタートメニュー横の`ここに入力して検索`部に`ubuntuと入れて検索、実行します。
+WSL上で行う想定となっています。スタートメニュー横の`ここに入力して検索`部に`ubuntu`と入れて検索、実行します。
 黒い画面が出ている状態で進行します。
 
 ## ソースコードの入手
 
 ```bash
+## どっちか実行
 ### vimって何？って人
 cd /mnt/c/Users/Windowsユーザ名/Desktop/
 
 ### vim使える人
 cd
+
+### 上記どっちの人も実行
 git clone https://github.com/mews-iidx/git_tutorial_slack_bot
 ```
 
