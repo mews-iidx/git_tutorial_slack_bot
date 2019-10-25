@@ -75,13 +75,13 @@ Basic information -> Install your app to your workspace
 `git_tutorial_slack_bot/slackbot_settings.py`を編集します。
 `API_TOKEN= XXXX`のTOKEN部分を先ほどの内容をペーストします。
 
-### vimって何？って人
+### 編集方法:vimって何？って人
 
 デスクトップに`git_tutorial_slack_bot`というフォルダがありますね。
 これを開きましょう。
 `git_tutorial_slack_bot/slackbot_settings.py`をメモ帳なりサクラエディタなり秀丸エディタなりで開いてください。
 
-### vim使える人
+### 編集方法:vim使える人
 
 ```bash
 vi slackbot_settings.py
