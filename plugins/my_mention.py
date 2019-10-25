@@ -8,12 +8,11 @@ from slackbot.bot import default_reply
 def mention_func(message):
     message.reply('mension')
 
-
 @listen_to('listen')
 def listen_func(message):
     message.send('listen')    
     message.reply('are you？')
 
 @respond_to('stamp')
-def cool_func(message):
-    message.react('+1')
+def genie(message):
+    message.react('female_genie')
